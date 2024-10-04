@@ -65,5 +65,7 @@ By default, MarzbanBrute uses `MaxThreads` (set to 64,000) for handling concurre
 This tool is intended for legal and authorized penetration testing only. Unauthorized use of this tool on systems you do not own or have explicit permission to test is illegal and unethical. Use responsibly!
 
 ## 👩‍💻 Authors
-Mh-ProDev – Development
-ItzK4sra – Development , Contributions
+
+- **Mh-ProDev** – Development
+- **ItzK4sra** – Development, Contributions
+
